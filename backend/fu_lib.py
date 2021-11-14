@@ -1,4 +1,4 @@
-from predcit import *
+from predict import *
 import json
 import requests
 from numpy import *
