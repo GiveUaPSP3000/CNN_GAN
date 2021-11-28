@@ -65,3 +65,12 @@ Then just drag or click the upload button to upload the image, and then click `T
 ## Acknowledgments
 
 This is the project for Pattern Recognition Systems (PRS), which is offered by NUS-ISS.
+
+## Performance
+
+![image](https://user-images.githubusercontent.com/88467925/143771615-d02287a9-49b8-4770-a189-d089b9049aff.png)
+![image](https://user-images.githubusercontent.com/88467925/143771645-48e68615-a2a3-4656-a344-1b3992e75de8.png)
+![image](https://user-images.githubusercontent.com/88467925/143771669-2f307860-5ee3-4dbd-9c81-0dcd1e24bde3.png)
+
+
+
